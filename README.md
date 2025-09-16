@@ -26,6 +26,4 @@
 
 - Collaboration Tools – Microsoft Teams, Email for stakeholder alignment
 
-This combined section turns your Power BI work into a mini portfolio that recruiters can instantly understand.
 
-Would you like me to format your entire CV with this updated “Projects” section and send it back as a clean, modern Word or PDF file ready to apply for the job? (I can include subtle design elements like section dividers and icons so it stands out visually but stays ATS-friendly.)
